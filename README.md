@@ -10,3 +10,6 @@ Pruebas de rendimiento: Evalúan el rendimiento y la capacidad de respuesta del 
 Pruebas de seguridad: Identifican vulnerabilidades y riesgos de seguridad en el software.
 Pruebas de regresión: Se realizan para asegurar que las modificaciones o mejoras no hayan introducido errores en el software existente.
 El desarrollo de software se refiere al proceso de crear, diseñar y mantener aplicaciones y programas de software. El desarrollo de software sigue diferentes metodologías, como el desarrollo ágil, y utiliza diversas tecnologías y lenguajes de programación.
+SANTIAGO ALVAREZ
+SEBASTIAN TORRES
+ANDREY FAJARDO
